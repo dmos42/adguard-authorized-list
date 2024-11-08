@@ -1,3 +1,4 @@
 @@||*noip.com^$important
 @@||*enviedeplus.com^$important
-@@||*tailscale.com^$important
+@@||*tailscale.com^$important*
+@@||*clonezilla.fr^$important*
