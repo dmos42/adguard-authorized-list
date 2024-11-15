@@ -3,4 +3,4 @@
 @@||*tailscale.com^$important*
 @@||*clonezilla.fr^$important*
 @@||*tailscale.com^$important*
-@@||*tailscale^$important*
+@@||*https://tailscale.com^$important*
