@@ -3,3 +3,8 @@
 @@||*tailscale.com^$important*
 @@||*clonezilla.fr^$important*
 @@||tailscale.com^
+@@||*privateinternetaccess.com^
+@@||*azirevpn.com^
+@@||*nordvpn.com^
+@@||*mullvad.net^
+@@||*windscribe.com^
