@@ -9,3 +9,4 @@
 @@||*mullvad.net^
 @@||*windscribe.com^
 @@||*airvpn.org^
+@@||*protonvpn.com^
