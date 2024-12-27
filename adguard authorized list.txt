@@ -10,3 +10,4 @@
 @@||*windscribe.com^
 @@||*airvpn.org^
 @@||*protonvpn.com^
+@@||*plab.site^
