@@ -28,3 +28,4 @@
 @@||*ublockdns.com^
 @@||*tracker.coppersurfer.tk^
 @@||*anidex.moe^
+@@||*kettleblaze.store^
